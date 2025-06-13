@@ -6,12 +6,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=rose&style=for-the-badge&color=tea">
-    <img src="https://komarev.com/ghpvc/?username=rose&style=for-the-badge&color=tea" alt="Profile Views"/>
-  </picture>
-</div>
 
 <div align="center">
   
