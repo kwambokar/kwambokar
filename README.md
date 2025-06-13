@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Rose+%F0%9F%91%8B">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Rose+%F0%9F%91%8B">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Rose+%F0%9F%91%8B">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi2C+I'm+Rose+%F0%9F%91%8B">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Rose+%F0%9F%91%8B">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Rose+%F0%9F%91%8B">
   </picture>
 </div>
 
