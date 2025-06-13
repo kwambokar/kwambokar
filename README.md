@@ -44,8 +44,8 @@ additional_info <- list(
 ### Social media: 📡
 Connect with me to discuss data science, share book recommendations, or chat about the perfect tea pairings:
 
-<a href="https://www.linkedin.com/in/rose/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Rose | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/rose_data_tea/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Rose | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/rose-kwamboka/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Rose | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/kwamboka_rose_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Rose | Instagram" width="21px"/></a>
 </br>
 - 💬 If you have any questions about data science, book recommendations, or tea suggestions, please don't hesitate to reach out!
 
